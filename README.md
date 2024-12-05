@@ -8,7 +8,8 @@ In these projects, I followed these steps:
   - Handling duplicate data using conditional filtering
   - Formatting data
   - Trimming white space
-  - Merging columns 
+  - Merging columns
+* Utilizing formulas to automate calculations
 * Utilizing Vlookup, Hlookup and Xlookup.
 * Creating Pivot tables for the analysis phase.
 * Using data visualization for data analysis (Histogram, Scatter Plot).
